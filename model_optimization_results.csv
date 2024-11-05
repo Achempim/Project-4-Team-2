@@ -1,3 +1,4 @@
-Model,Accuracy,Hyperparameters
-Initial RF,0.9242990654205607,Default
-Optimized RF,0.9104477611940298,"{'max_depth': None, 'min_samples_split': 5, 'n_estimators': 100}"
+Model,Metric,Score,Hyperparameters
+Initial Random Forest,Accuracy,0.9214953271028037,Default
+Optimized Random Forest,Accuracy,0.9328358208955224,"{'max_depth': 10, 'min_samples_leaf': 1, 'min_samples_split': 5, 'n_estimators': 50}"
+Polynomial Linear Regression (Ridge),R-squared,0.8269837378317572,Polynomial Degree=2 with Ridge
