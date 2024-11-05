@@ -22,3 +22,4 @@ Charges represents the amount of healthcare costs to the individual.
 ![alt text](https://github.com/Achempim/Project-4-Team-2/blob/main/Images/Optimization.png?raw=true)
 ![alt text](https://github.com/Achempim/Project-4-Team-2/blob/main/Images/Optimization%202.png?raw=true)
 7. The process and results both were converted to a Pandas DataFrame and saved to a CSV.
+![alt text](https://github.com/Achempim/Project-4-Team-2/blob/main/Images/Process%20Results%20Save.png?raw=true)
