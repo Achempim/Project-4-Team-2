@@ -20,5 +20,5 @@ Charges represents the amount of healthcare costs to the individual.
 ![alt text](https://github.com/Achempim/Project-4-Team-2/blob/main/Images/Initial%20model%20evaluation%20.png?raw=true)
 6. Additional optimization through the use of sklearn and additional parameters. The new R-Squared value was 0.78 and Random Forest Classification Accuracy was 0.94.
 ![alt text](https://github.com/Achempim/Project-4-Team-2/blob/main/Images/Optimization.png?raw=true)
-
+![alt text](https://github.com/Achempim/Project-4-Team-2/blob/main/Images/Optimization%202.png?raw=true)
 7. The process and results both were converted to a Pandas DataFrame and saved to a CSV.
